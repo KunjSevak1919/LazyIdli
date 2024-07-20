@@ -1,8 +1,6 @@
-
-
 .App {
   text-align: center;
-  background: url('/Users/kunj/Desktop/LazyIdli/LazyIdliAssesment/my-leaderboard1/public/image 65 (1).png') no-repeat center center fixed;
+  background: url('/public/image 65 (1).png') no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
 }
