@@ -6,6 +6,7 @@ const store = configureStore({
   reducer: {
     leaderboard: leaderboardReducer,
   },
-});
+}
+);
 
 export default store;

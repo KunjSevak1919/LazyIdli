@@ -26,8 +26,10 @@ const Leaderboard = () => {
           ))}
         </tbody>
       </table>
+    
+    
     </div>
-  );
+        );
 };
 
 export default Leaderboard;

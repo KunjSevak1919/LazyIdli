@@ -13,8 +13,8 @@ const leaderboardSlice = createSlice({
       { username: 'McRamble', time: '00:56:20' },
       { username: 'Rajj', time: '00:58:23' },
       { username: 'McRamble', time: '00:59:56' },
-      { username: ' Anjum Kunnummal', time: '00:56:23' },
       { username: ' Lalkar', time: '00:35:23' },
+      
     ],
   },
   reducers: {

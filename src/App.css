@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: rgba(215, 18, 18, 0.8); /* Semi-transparent to blend with background */
+  background-color: rgba(215, 18, 18, 0.8); 
   min-height: 10vh;
   display: flex;
   flex-direction: column;

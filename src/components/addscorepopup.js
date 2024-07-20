@@ -40,6 +40,7 @@ const AddScorePopup = ({ closePopup }) => {
       </div>
     </div>
   );
-};
+}
+;
 
 export default AddScorePopup;

@@ -11,7 +11,8 @@ const App = () => {
 
   const togglePopup = () => {
     setShowPopup(!showPopup);
-  };
+  }
+  ;
 
   return (
     <div className="App">

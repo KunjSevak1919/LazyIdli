@@ -7,6 +7,9 @@ const Footer = () => {
       <p>Footer: Disclaimers/ Announcements/ etc</p>
     </div>
   );
+
+
 };
+
 
 export default Footer;
